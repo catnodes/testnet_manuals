@@ -83,7 +83,7 @@ sudo systemctl enable nym-mixnode
 
 echo -e "\e[1m\e[32m5. Setting up firewall to allow tcp ports 1789, 1790, 8000, 22, 80, 443... \e[0m" && sleep 1
 # set up firewall
-sudo ufw allow 1789,1790,8000,22,80,443/tcp
+sudo ufw allow 1789,1790,8000,9000,22,80,443/tcp
 sudo ufw --force enable
 
 echo -e "\e[1m\e[32m6. Increasing Max open files limit... \e[0m" && sleep 1

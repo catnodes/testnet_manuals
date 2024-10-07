@@ -1,0 +1,16 @@
+{
+    "chain_name": "INITIA-TESTNET",
+    "api": ["https://initia-testnet.api.kjnodes.com"],
+    "rpc": ["https://initia-testnet.rpc.kjnodes.com"],
+	"sdk_version": "v0.45.14",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "init",
+    "logo": "https://services.kjnodes.com/assets/images/logos/initia.png",
+    "assets": [{
+        "base": "uinit",
+        "symbol": "init",
+        "exponent": 6,
+        "logo": "https://services.kjnodes.com/assets/images/logos/initia.png"
+    }]
+}

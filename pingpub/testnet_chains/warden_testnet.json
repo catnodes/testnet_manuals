@@ -1,0 +1,14 @@
+{
+    "chain_name": "WARDEN-TESTNET",
+    "api": ["https://warden-testnet.api.kjnodes.com"],
+    "rpc": ["https://warden-testnet.rpc.kjnodes.com"],
+	"sdk_version": "v0.50.5",
+    "addr_prefix": "warden",
+    "logo": "https://services.kjnodes.com/assets/images/logos/warden.png",
+    "assets": [{
+        "base": "uwarden",
+        "symbol": "warden",
+        "exponent": 6,
+        "logo": "https://services.kjnodes.com/assets/images/logos/warden.png"
+    }]
+}

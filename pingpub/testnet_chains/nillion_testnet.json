@@ -1,0 +1,15 @@
+{
+    "chain_name": "NILLION-TESTNET",
+    "api": ["https://nillion-testnet.api.kjnodes.com"],
+    "rpc": ["https://nillion-testnet.rpc.kjnodes.com"],
+	"sdk_version": "v0.50.6",
+    "coin_type": 118,
+    "addr_prefix": "nillion",
+    "logo": "https://services.kjnodes.com/assets/images/logos/nillion.png",
+    "assets": [{
+        "base": "unil",
+        "symbol": "nil",
+        "exponent": 6,
+        "logo": "https://services.kjnodes.com/assets/images/logos/nillion.png"
+    }]
+}

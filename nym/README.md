@@ -28,8 +28,9 @@
 ## MIXNODE SYSTEM REQUIREMENTS
 For the moment mixnode does not require beastly server with multiple cores. Current system requirements are:
  
-- 2 vCPU
-- 1 GB RAM
+- 4 vCPU
+- 4 GB RAM
+- 40 GB SSD
 - Support of IPv4 and IPv6
 
 ## BEFORE YOU BEGIN

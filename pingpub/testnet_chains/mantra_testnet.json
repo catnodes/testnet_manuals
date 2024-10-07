@@ -1,0 +1,14 @@
+{
+    "chain_name": "MANTRA-TESTNET",
+    "api": ["https://mantra-testnet.api.kjnodes.com"],
+    "rpc": ["https://mantra-testnet.rpc.kjnodes.com"],
+	"sdk_version": "v0.47.4",
+    "addr_prefix": "mantra",
+    "logo": "https://services.kjnodes.com/assets/images/logos/mantra.png",
+    "assets": [{
+        "base": "uom",
+        "symbol": "om",
+        "exponent": 6,
+        "logo": "https://services.kjnodes.com/assets/images/logos/mantra.png"
+    }]
+}

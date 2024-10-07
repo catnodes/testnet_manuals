@@ -1,0 +1,15 @@
+{
+    "chain_name": "SAGA",
+    "api": ["https://saga.api.kjnodes.com"],
+    "rpc": ["https://saga.rpc.kjnodes.com"],
+	"sdk_version": "v0.45.5",
+    "coin_type": 118,
+    "addr_prefix": "saga",
+    "logo": "https://services.kjnodes.com/assets/images/logos/saga.png",
+    "assets": [{
+        "base": "usaga",
+        "symbol": "saga",
+        "exponent": 6,
+        "logo": "https://services.kjnodes.com/assets/images/logos/saga.png"
+    }]
+}
